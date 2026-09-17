@@ -1,0 +1,10 @@
+column,data_type,missing_values,unique_values
+num_words,int64,0,4278
+num_unique_words,int64,0,1892
+num_stopwords,int64,0,1885
+num_links,int64,0,197
+num_unique_domains,int64,0,82
+num_email_addresses,int64,0,285
+num_spelling_errors,int64,0,1066
+num_urgent_keywords,int64,0,8
+label,int64,0,2

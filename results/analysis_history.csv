@@ -1,0 +1,2 @@
+id,timestamp,num_words,num_unique_words,num_stopwords,num_links,num_unique_domains,num_email_addresses,num_spelling_errors,num_urgent_keywords,prediction,phishing_probability,safe_probability,risk_level
+1,2026-09-18 01:16:08,87,67,24,3,3,2,14,0,1,0.8782542125149635,0.12174578748503681,HIGH

@@ -1,0 +1,16 @@
+B207 EMAIL PHISHING THREAT ANALYZER
+============================================================
+
+Detection Summary
+------------------------------------------------------------
+Total Analyses: 1
+Phishing Detected: 1
+Safe Detected: 0
+High Risk: 1
+Medium Risk: 0
+Low Risk: 0
+
+Risk thresholds:
+HIGH: phishing probability >= 70%
+MEDIUM: phishing probability >= 40% and < 70%
+LOW: phishing probability < 40%
